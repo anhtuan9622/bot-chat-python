@@ -1,0 +1,9 @@
+{'design': 'thiết kế',
+ 'typography': 'chữ',
+ 'layout': 'bố cục',
+ 'illustration': 'hình họa',
+ 'architect': 'kiến trúc sư',
+ 'minimalist': 'tối giản',
+ 'photography': 'nhiếp ảnh',
+ 'graphic': 'đồ họa',
+ 'house': 'căn nhà'}
